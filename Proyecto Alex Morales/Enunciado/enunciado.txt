@@ -1,0 +1,24 @@
+El servei d’intel·ligència del govern d’Espanya té uns agents encoberts en un altre país enemic el qual no ens han desvelat el nom. Aquests agents han aconseguit col·locar-se en posicions importants dins de grans organitzacions del país. Ens han demanat que investiguem noms d’alguns caps importants d’aquestes organitzacions per veure si tenen alguna similitud o alguna pista que els pugui ajudar en la seva investigació. 
+Entrada
+L’entrada comença amb un número indicant la quantitat de casos de prova que el programa haurà de processar.
+Cada cas de prova consta d’un altre número que indica el nombre de noms que s’han de comprovar i seguidament els noms, aquests seran en minúscules.
+Sortida
+Per a cada cas de prova, el programa escriurà les lletres que es repeteixen a totes les paraules introduïdes en ordre alfabètic.
+
+Entrada d’exemple
+3
+2
+ahmed 
+mohamed
+2
+eric
+anton
+3
+ivan
+nahmad
+felixen
+
+Sortida d’exemple
+adehm
+
+n
